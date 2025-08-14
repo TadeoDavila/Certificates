@@ -8,4 +8,4 @@ This repository gathers a selection of verified certificates that showcase my ac
 - **Issued:** May 7, 2023   
 - **Status:** Active  
 - **Online Verification:** [Click to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5)  
-- **Certificate (PDF):** [View Document]()  
+- **Certificate (PDF):** [View Document](./certs/Certificate_C-BKQGFTRJVW.pdf)  
