@@ -3,13 +3,6 @@ This repository gathers a selection of verified certificates that showcase my ac
 
 ## CSWA - SOLIDWORKS Simulation Associate - CERTIFICATE 
 
-- **Institution:** Dassault Systèmes 
-- **Certification:** CSWA (Certified SOLIDWORKS Associate)  
-- **Issued:** May 7, 2023   
-- **Status:** Active  
-- **Online Verification:** [Click to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5)  
-- **Certificate (PDF):** [View Document](./certificates/Certificate_C-TDJHEQZ8K5.pdf)
-  
-<p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5" alt="CSWA QR Code">
-</p>
+| Details | QR Code |
+|---------|---------|
+| **Institution:** Dassault Systèmes<br>**Certification:** CSWA (Certified SOLIDWORKS Associate)<br>**Issued:** May 7, 2023<br>**Status:** Valid<br>**Online Verification:** [Click to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5)<br>**Certificate (PDF):** [View Document](./certificates/Certificate_C-TDJHEQZ8K5.pdf) | <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5" alt="CSWA QR Code">|
