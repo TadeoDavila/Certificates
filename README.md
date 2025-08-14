@@ -8,4 +8,8 @@ This repository gathers a selection of verified certificates that showcase my ac
 - **Issued:** May 7, 2023   
 - **Status:** Active  
 - **Online Verification:** [Click to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5)  
-- **Certificate (PDF):** [View Document](./certs/Certificate_C-BKQGFTRJVW.pdf)  
+- **Certificate (PDF):** [View Document](./certificates/Certificate_C-TDJHEQZ8K5.pdf)
+  
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TDJHEQZ8K5" alt="CSWA QR Code">
+</p>
